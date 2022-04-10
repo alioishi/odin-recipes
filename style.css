@@ -1,0 +1,19 @@
+.recipe {
+    font-family: "Verdana", sans-serif;
+    font-size: 16px;
+}
+
+.recipe .beef-pho {
+    color: white;
+    background-color: rgb(167, 97, 7);
+}
+
+.recipe .brussels-sprouts {
+    color: brown;
+    background-color: green;
+}
+
+.recipe .lemon-bars {
+    color: white;
+    background-color: yellow;
+}
