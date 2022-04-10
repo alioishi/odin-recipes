@@ -17,3 +17,8 @@
     color: white;
     background-color: yellow;
 }
+
+img {
+    height: 500px;
+    width: auto;
+}
